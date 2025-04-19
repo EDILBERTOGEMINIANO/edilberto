@@ -17,3 +17,13 @@ Task no.3: CREATE TABLE employee_departments
 <img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/Task%203.png">
 
 Task no.4: CREATE TABLE employee_projects
+
+<img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/4.png">
+<img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/Task%204.png">
+
+Task no.5: CREATE TABLE managers
+
+<img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/5.png">
+<img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/Task%205.png">
+
+ER DIAGRAM: <img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/diagram.png">
