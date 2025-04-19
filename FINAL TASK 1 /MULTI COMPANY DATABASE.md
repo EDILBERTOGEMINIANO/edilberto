@@ -26,4 +26,5 @@ Task no.5: CREATE TABLE managers
 <img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/5.png">
 <img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/Task%205.png">
 
-ER DIAGRAM: <img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/diagram.png">
+ER DIAGRAM:           
+<img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/QUERY%20CODE/diagram.png">
