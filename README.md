@@ -1,4 +1,4 @@
-<img src="RANDOM/halata.png" alt="Image Description" width="300" style="float: right; margin-left: 20px;" />
+<img src="https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/halata.png" alt="Image Description" width="300" style="float: right; margin-left: 20px;" />
 
 
 # EDM-Portfolio - Edilberto II M Geminiano 
