@@ -14,7 +14,7 @@ Hello World, My name is Edilberto II. M. Geminiano from the Philippines. I am cu
 
 
 **Final**
-* Final Task 1:
-* Final Task 2:
-* Final Task 3:
-* Final Task 3-1:
+* Final Task 1: [SQL Basic](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%201%20/MULTI%20COMPANY%20DATABASE.md)
+* Final Task 2: [Transform ER into Relational tables]()
+* Final Task 3: [Table Manipulation](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%203/ProductPrice.md)
+* Final Task 3-1: [Using SELECT CLAUSE](https://github.com/EDILBERTOGEMINIANO/edilberto/blob/main/FINAL%20TASK%203-1/online.md?plain=1)
